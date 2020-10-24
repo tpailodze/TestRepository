@@ -19,7 +19,7 @@ body {
     height: 200px;
     left: 0;
     background: url(image/road.jpg);
-    animation: road 5s linear infinite;
+    animation: road 1s linear infinite;
    
 }
 .city {
