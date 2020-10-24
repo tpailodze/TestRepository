@@ -29,7 +29,7 @@ body {
     width: 500%;
     height: 250px;
     background: url(image/city.png);
-    animation: city 12s linear infinite;
+    animation: city 3s linear infinite;
 }
 
 .car {
